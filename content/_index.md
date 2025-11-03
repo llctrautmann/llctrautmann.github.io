@@ -11,4 +11,4 @@ This is my research blog! I am mainly interested in the intersection of generati
 
 [See all posts](/posts/)
 
-[ML Paper Summmaries](/Summaries/)
+[ML Paper Summmaries](/summaries/)
