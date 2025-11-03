@@ -29,7 +29,7 @@ theme = "shibui"
     weight = 2
   [[menu.main]]
     name = "ML Summaries"
-    url = "Summaries"
+    url = "/Summaries/"
     weight = 3
   [[menu.main]]
     name = "About"
