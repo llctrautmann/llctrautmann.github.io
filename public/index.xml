@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BwdFwd</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on BwdFwd</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Elements Demo</title>
+      <link>http://localhost:1313/posts/design_demo/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/design_demo/</guid>
+      <description>&lt;p&gt;This is a demo page showcasing all the different text elements and styles used on this site.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This page demonstrates various markdown elements to help visualize the design. It includes headings, text formatting, blockquotes, code blocks, lists, tables, and mathematical equations.&lt;/p&gt;&#xA;&lt;h3 id=&#34;subsection-example&#34;&gt;Subsection Example&lt;/h3&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a third-level heading with some regular paragraph text. The quick brown fox jumps over the lazy dog. This sentence contains all letters of the alphabet and helps demonstrate font rendering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Graffiti</title>
+      <link>http://localhost:1313/posts/graffiti/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/graffiti/</guid>
+      <description>&lt;p&gt;&lt;div style=&#34;height: 2em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;em&gt;&amp;hellip;&amp;hellip;except from a book, that may or may not be written&amp;hellip;&amp;hellip;&lt;/em&gt;&#xA;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Writing something, somewhere in a public place has always been a go-to tool for those without any other means of resistance to stick it to the current regime. But since the advent of nano-tech coatings and fast clean-up drones, spray and paint have lost their “fuck-the-system” value. But the world keeps spinning and scientific knowledge generally doesn’t want to be tied up like a hooker too careless to agree to some mild bondage play up in the back alley brothels on the soft underbelly of Tokyos shadow world. Now the tool of choice is microbial bio-paint. A mixture of a calcium-rich deployment substrate and lab engineered bacteria that have all but two functions spliced from their genetic composition.&#xA;The first converts the deployment fuel into highly corrosive fluorinated acid that decomposes anything including hardened glass into a workable canvas to spread “the message”. The second, is a highly optimised gene expression protocol that recombines the available molecules from the canvas and the deployment substrate into a almost indestructible calcium-silicate crust, that remains of a surface longer than the time humans have populated rock-3.&#xA;Put the fully enriched mixture anywhere and within seconds the gene edited cells will engrave themselves into the surface. Used carefully, you can write anything anywhere and make sure it remains there to be seen until the surface gets demolished. More expensive versions also embed any combination of fluorescence particles into the mix to make artists mental arithmetics against the system pop even more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parallel Diffusion Models of Operator and Image for Blind Inverse Problems</title>
+      <link>http://localhost:1313/summaries/chung2022d/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/summaries/chung2022d/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Diffusion model-based inverse problem solvers have demonstrated state-of-the-art performance in cases where the forward operator is known (i.e. non-blind). However, the applicability of the method to blind inverse problems has yet to be explored. In this work, we show that we can indeed solve a family of blind inverse problems by constructing another diffusion prior for the forward operator. Specifically, parallel reverse diffusion guided by gradients from the intermediate stages enables joint optimization of both the forward operator parameters as well as the image, such that both are jointly estimated at the end of the parallel reverse diffusion procedure. We show the efficacy of our method on two representative tasks – blind deblurring, and imaging through turbulence – and show that our method yields state-of-the-art performance, while also being flexible to be applicable to general blind inverse problems when we know the functional forms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shared and sharded time</title>
+      <link>http://localhost:1313/posts/shared_sharded_time/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/shared_sharded_time/</guid>
+      <description>&lt;p&gt;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;The good things.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Good things.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;England.&lt;/p&gt;&#xA;&lt;p&gt;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Are voxel uncertainties useful surrogates for MRI?</title>
+      <link>http://localhost:1313/research/useful_surrogates/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/useful_surrogates/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;h2 id=&#34;voxelwise-and-pixelwise-uncertainty&#34;&gt;Voxelwise and pixelwise uncertainty&lt;/h2&gt;&#xA;&lt;h2 id=&#34;do-they-correlate&#34;&gt;Do they correlate?&lt;/h2&gt;&#xA;&lt;h2 id=&#34;where-to-go-maybe&#34;&gt;Where to go (maybe)&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Diffusion</title>
+      <link>http://localhost:1313/research/diffusion/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/diffusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uncertainty in accelerated MRI</title>
+      <link>http://localhost:1313/research/init/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/init/</guid>
+      <description>&lt;h2 id=&#34;definitions&#34;&gt;Definitions&lt;/h2&gt;&#xA;$$a = bx$$&lt;p&gt;This is an inline \(a^*=x-b^*\) equation.&lt;/p&gt;&#xA;&lt;p&gt;These are block equations:&lt;/p&gt;&#xA;\[a^*=x-b^*\]\[ a^*=x-b^* \]\[&#xA;a^*=x-b^*&#xA;\]&lt;p&gt;These are also block equations:&lt;/p&gt;&#xA;$$a^*=x-b^*$$$$ a^*=x-b^* $$$$&#xA;a^*=x-b^*&#xA;$$&lt;h2 id=&#34;issues-with-the-kernel&#34;&gt;Issues with the Kernel&lt;/h2&gt;&#xA;&lt;p&gt;So we have seen that the simple equation&#xA;&lt;/p&gt;&#xA;\[&#xA;y = ax + e&#xA;\]&lt;p&gt;&#xA;is able to describe a lot of interesting problems that we encounter. MRI acceleration is one of them.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; i &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; range(&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;):&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(i)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;My name is Fahrenheit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

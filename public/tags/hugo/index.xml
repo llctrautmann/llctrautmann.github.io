@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on BwdFwd</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on BwdFwd</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncertainty in accelerated MRI</title>
+      <link>http://localhost:1313/research/init/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/init/</guid>
+      <description>&lt;h2 id=&#34;definitions&#34;&gt;Definitions&lt;/h2&gt;&#xA;$$a = bx$$&lt;p&gt;This is an inline \(a^*=x-b^*\) equation.&lt;/p&gt;&#xA;&lt;p&gt;These are block equations:&lt;/p&gt;&#xA;\[a^*=x-b^*\]\[ a^*=x-b^* \]\[&#xA;a^*=x-b^*&#xA;\]&lt;p&gt;These are also block equations:&lt;/p&gt;&#xA;$$a^*=x-b^*$$$$ a^*=x-b^* $$$$&#xA;a^*=x-b^*&#xA;$$&lt;h2 id=&#34;issues-with-the-kernel&#34;&gt;Issues with the Kernel&lt;/h2&gt;&#xA;&lt;p&gt;So we have seen that the simple equation&#xA;&lt;/p&gt;&#xA;\[&#xA;y = ax + e&#xA;\]&lt;p&gt;&#xA;is able to describe a lot of interesting problems that we encounter. MRI acceleration is one of them.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; i &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; range(&lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;):&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(i)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
