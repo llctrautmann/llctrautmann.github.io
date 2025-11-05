@@ -1,13 +1,12 @@
 ---
 date: '2025-11-04'
 draft: true
-toc: false
+toc: true
 title: 'OF LOVE AND FEAR AND COURAGE AND HUMANS'
 ---
-
 A couple of days ago, I was sitting in a cafe, talking to a friend about affection, courage, and fear of the future. As we were talking, we started to discuss emotions and their relationship to Zukunftsangst. One particular question we tried to answer got stuck in my head: ‘How can we be certain that feelings and love will remain for years?’ Within that question sits in my opinion Zukunftsangst. We talked about this for a while, but it continued to work in me over the past days. I don't think there is a right or a wrong answer, but here is my view on this question.
 
-# The brain and the future:
+# The brain and the future
 
 Contrary to what I thought in the past, we primarily remember not because we believe the past is something worth keeping but to have a guiding light for the future. My experiences, people I encountered, struggles, and hardships, blissful moments all help me to figure out how to find my way without walking in the same traps over and over again. This is a very good feature of our nature. It allows us to develop and learn.
 

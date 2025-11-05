@@ -43,5 +43,12 @@
       <guid>http://localhost:1313/posts/design_demo/</guid>
       <description>&lt;p&gt;This is a demo page showcasing all the different text elements and styles used on this site.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This page demonstrates various markdown elements to help visualize the design. It includes headings, text formatting, blockquotes, code blocks, lists, tables, and mathematical equations.&lt;/p&gt;&#xA;&lt;h3 id=&#34;subsection-example&#34;&gt;Subsection Example&lt;/h3&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a third-level heading with some regular paragraph text. The quick brown fox jumps over the lazy dog. This sentence contains all letters of the alphabet and helps demonstrate font rendering.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Tokyo</title>
+      <link>http://localhost:1313/posts/tokyo/</link>
+      <pubDate>Wed, 29 Nov 2023 16:42:32 +0100</pubDate>
+      <guid>http://localhost:1313/posts/tokyo/</guid>
+      <description>&lt;p&gt;Sometimes I miss Tokyo to the cellular level. It is insane how much this city has left an imprint on me. In my memory I feel the heat of the asphalt radiating into my face while I am walking through Shimo-kitazawa, Hara-juku or Shibuya after a day of sun in the early summer. It is blissful. It is liberating. It is absolutely fantastic and dread nothing more than to one day feel like I will be too old to do these things.  Weltenwandler of this world listen up:  just go there and loose yourself in the swirling, steaming whirlpool that is the metropolitan area of Tokyo. Go to the little bars in and have: ビール を いっぱい おねがいします. Get absolutely trashed in a karaoke bar, eat the best seafood at any time of the day, get beers from the next konbini and sit somewhere in the concrete jungle and never, never, never hesitate. And if you have trashed yourself, do the following. Wake up trashed, go to the next sentō and soak yourself in the warms of a steaming hot bath house. Sweat out all the poison. Then get yourself some street ramen and an ice cold beer and life will be good. Live will be whole and fulfilling. Learn how little you need to be content.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
