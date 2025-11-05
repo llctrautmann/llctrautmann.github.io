@@ -1,14 +1,14 @@
 ---
 title: "BwdFwd"
 ---
-{{< video src="/videos/Ensemble_Variability_and_Segmentations.mp4" width="80%" loop="true" muted="true" controls="false" autoplay="true" >}}
+{{< video src="/videos/weights.mp4" width="80%" loop="true" muted="true" controls="false" autoplay="true" >}}
+
+> *Loosing is something we have to do over and over again as we try to win. Failing is not doing what you want to do the way you want to do it. It’s ok to loose, but it is not ok to fail.*
 
 {{< space "lg">}}
 
-This is my research blog! I am mainly interested in the intersection of generative modelling and inverse problems in the biomedical imaging domain.
+↦ [Research](/research/)
 
-[Research](/research/)
+↦ [Posts](/posts/)
 
-[See all posts](/posts/)
-
-[ML Paper Summmaries](/summaries/)
+↦ [ML Paper Summmaries](/summaries/)

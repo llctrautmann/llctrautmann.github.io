@@ -11,19 +11,7 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/demo/</loc>
-    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/design/</loc>
-    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/design_demo/</loc>
-    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/graffiti/</loc>
-    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/summaries/chung2022d/</loc>
@@ -34,6 +22,21 @@
   </url><url>
     <loc>http://localhost:1313/posts/shared_sharded_time/</loc>
     <lastmod>2025-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/weights/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/demo/</loc>
+    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/design_demo/</loc>
+    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/useful_surrogates/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>

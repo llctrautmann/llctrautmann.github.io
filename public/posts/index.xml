@@ -16,13 +16,6 @@
       <description>&lt;p&gt;A couple of days ago, I was sitting in a cafe, talking to a friend about affection, courage, and fear of the future. As we were talking, we started to discuss emotions and their relationship to Zukunftsangst. One particular question we tried to answer got stuck in my head: ‘How can we be certain that feelings and love will remain for years?’ Within that question sits in my opinion Zukunftsangst. We talked about this for a while, but it continued to work in me over the past days. I don&amp;rsquo;t think there is a right or a wrong answer, but here is my view on this question.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Design Elements Demo</title>
-      <link>http://localhost:1313/posts/design_demo/</link>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/design_demo/</guid>
-      <description>&lt;p&gt;This is a demo page showcasing all the different text elements and styles used on this site.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This page demonstrates various markdown elements to help visualize the design. It includes headings, text formatting, blockquotes, code blocks, lists, tables, and mathematical equations.&lt;/p&gt;&#xA;&lt;h3 id=&#34;subsection-example&#34;&gt;Subsection Example&lt;/h3&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a third-level heading with some regular paragraph text. The quick brown fox jumps over the lazy dog. This sentence contains all letters of the alphabet and helps demonstrate font rendering.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Graffiti</title>
       <link>http://localhost:1313/posts/graffiti/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
@@ -34,14 +27,21 @@
       <link>http://localhost:1313/posts/shared_sharded_time/</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/shared_sharded_time/</guid>
-      <description>&lt;p&gt;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;The good things.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Good things.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;England.&lt;/p&gt;&#xA;&lt;p&gt;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;The good things.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Good things.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;things.&lt;/p&gt;&#xA;&lt;p&gt;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weights</title>
       <link>http://localhost:1313/posts/weights/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/weights/</guid>
-      <description>&lt;video &#xA;    width=&#34;80%&#34; &#xA;    &#xA;    autoplay&#xA;    loop&#xA;    muted&#xA;    style=&#34;display: block; margin: var(--spacing-base) auto; border-radius: var(--border-radius);&#34;&#xA;&gt;&#xA;    &lt;source src=&#34;http://localhost:1313/videos/weights.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;    Your browser does not support the video tag.&#xA;&lt;/video&gt;</description>
+      <description>&lt;video &#xA;    width=&#34;80%&#34; &#xA;    &#xA;    autoplay&#xA;    loop&#xA;    muted&#xA;    style=&#34;display: block; margin: var(--spacing-base) auto; border-radius: var(--border-radius);&#34;&#xA;&gt;&#xA;    &lt;source src=&#34;http://localhost:1313/videos/weights.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;    Your browser does not support the video tag.&#xA;&lt;/video&gt;&#xA;&#xA;&#xA;&lt;p&gt;Each square is the weight in a linear layer connecting 25 nodes with 25 nodes over a 200 epoch training process to classify handwritten digits.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Design Elements Demo</title>
+      <link>http://localhost:1313/posts/design_demo/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/design_demo/</guid>
+      <description>&lt;p&gt;This is a demo page showcasing all the different text elements and styles used on this site.&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This page demonstrates various markdown elements to help visualize the design. It includes headings, text formatting, blockquotes, code blocks, lists, tables, and mathematical equations.&lt;/p&gt;&#xA;&lt;h3 id=&#34;subsection-example&#34;&gt;Subsection Example&lt;/h3&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a third-level heading with some regular paragraph text. The quick brown fox jumps over the lazy dog. This sentence contains all letters of the alphabet and helps demonstrate font rendering.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
