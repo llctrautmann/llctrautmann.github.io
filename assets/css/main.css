@@ -443,6 +443,69 @@ blockquote > :last-child {
     }
 }
 
+/* Callout styles */
+.callout {
+    margin: var(--spacing-base) 0;
+    padding: var(--spacing-sm);
+    border-left: 3px solid var(--color-border);
+    background: var(--color-bg-secondary);
+    border-radius: var(--border-radius);
+}
+
+.callout-title {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    font-weight: bold;
+    margin-bottom: var(--spacing-sm);
+}
+
+.callout-icon {
+    font-size: 1.2em;
+    line-height: 1;
+}
+
+.callout-content {
+    color: var(--color-text-primary);
+}
+
+.callout-content > :first-child {
+    margin-top: 0;
+}
+
+.callout-content > :last-child {
+    margin-bottom: 0;
+}
+
+/* Callout type variations */
+.callout-note {
+    border-left-color: #7c9cbf;
+}
+
+.callout-info {
+    border-left-color: #5b9dd9;
+}
+
+.callout-tip {
+    border-left-color: #7fb069;
+}
+
+.callout-warning {
+    border-left-color: #f4a261;
+}
+
+.callout-danger {
+    border-left-color: #e76f51;
+}
+
+.callout-success {
+    border-left-color: #2a9d8f;
+}
+
+.callout-question {
+    border-left-color: #9b59b6;
+}
+
 @media (max-device-width: 600px) {
     body {
         padding-top: 2em;
