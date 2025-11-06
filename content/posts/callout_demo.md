@@ -66,6 +66,7 @@ And even code blocks:
 def hello():
     print("Hello from a callout!")
 ```
+
 {{< /callout >}}
 
 ## Usage
@@ -80,3 +81,24 @@ Your content here
 
 Available types: `note`, `info`, `tip`, `warning`, `danger`, `success`, `question`
 
+{{< callout type="tip" >}}
+Start from bayes rule for the posterior:
+
+$$
+p\left(\mathbf{x}_t \mid \mathbf{y}\right)=\frac{p\left(\mathbf{y} \mid \mathbf{x}_t\right) p\left(\mathbf{x}_t\right)}{p(\mathbf{y})} .
+$$
+
+Take the \(\log\) and then the gradient with respect to \(\mathbf{x}_t\) :
+
+$$
+\nabla_{\mathbf{x}_t} \log p\left(\mathbf{x}_t \mid \mathbf{y}\right)=\nabla_{\mathbf{x}_t} \log p\left(\mathbf{y} \mid \mathbf{x}_t\right)+\nabla_{\mathbf{x}_t} \log p\left(\mathbf{x}_t\right)-\nabla_{\mathbf{x}_t} \log p(\mathbf{y})
+$$
+
+Since \(\nabla_{\mathbf{x}_t} \log p(\mathbf{y})\) is constant with respect to \(\mathbf{x}_t\), its gradient vanishes:
+
+$$
+\nabla_{\mathbf{x}_t} \log p\left(\mathbf{x}_t \mid \mathbf{y}\right)=\nabla_{\mathbf{x}_t} \log p\left(\mathbf{y} \mid \mathbf{x}_t\right)+\nabla_{\mathbf{x}_t} \log p\left(\mathbf{x}_t\right)
+$$
+
+Leaving the "score form" of Bayes' rule: **posterior score = prior score + likelihood score.**
+{{< /callout >}}
