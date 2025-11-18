@@ -6,8 +6,15 @@
     <description>Recent content in Posts on BwdFwd</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Nov 2025 02:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dades</title>
+      <link>http://localhost:1313/posts/dades/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dades/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/imgs/IMG_6012.jpeg&#34;&#xA;    alt=&#34;Morocco&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;h1 id=&#34;gorges-du-dadès&#34;&gt;&lt;em&gt;Gorges du Dadès&lt;/em&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Roter Sand und schwarzer Stein —&lt;/p&gt;&#xA;&lt;p&gt;draußen ist der Himmel kobaltblau.&lt;/p&gt;&#xA;&lt;p&gt;Schwer atmet der Wind,&lt;/p&gt;&#xA;&lt;p&gt;im Gorges du Dades,&lt;/p&gt;&#xA;&lt;p&gt;Schwer atmet dein Wind,&lt;/p&gt;&#xA;&lt;p&gt;in deiner Brust.&lt;/p&gt;&#xA;&lt;div style=&#34;height: 2em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;p&gt;grün schimmert das Wadi uns entgegen&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;“salut mon Papa, comment allez-vous?”&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;und Asche tropft von deiner Glut&lt;/p&gt;&#xA;&lt;p&gt;ich steh hier und lausch den Winden&lt;/p&gt;&#xA;&lt;p&gt;und frage mich dabei ganz leise&lt;/p&gt;&#xA;&lt;p&gt;Wieviel Zeit bleibt uns, &lt;em&gt;mon héros&lt;/em&gt;?&lt;/p&gt;&#xA;&lt;div style=&#34;height: 3em;&#34;&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;p&gt;&lt;em&gt;A poem written on a trip with my dad to Marrakech in November 2025.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Callout Demo</title>
       <link>http://localhost:1313/posts/callout_demo/</link>
