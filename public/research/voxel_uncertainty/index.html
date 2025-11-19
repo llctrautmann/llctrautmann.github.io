@@ -6,7 +6,7 @@
     <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
         <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>Are voxel uncertainties useful surrogates for MRI? | BwdFwd</title>
+<title>Voxel_uncertainty | BwdFwd</title>
 <link rel="apple-touch-icon" sizes="57x57" href="/%20favicon_io/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/%20favicon_io/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/%20favicon_io/apple-icon-72x72.png">
@@ -53,14 +53,14 @@
   
   <li>
     
-    <a href="/research/"></a>
+    <a href="/research/">Researches</a>
     /
   </li>
 
   
   <li class="current">
     
-    <a href="/research/useful_surrogates/">Are voxel uncertainties useful surrogates for MRI?</a>
+    <a href="/research/voxel_uncertainty/">Voxel_uncertainty</a>
     
   </li>
 
@@ -72,15 +72,8 @@
 
 </header>
         <main>
-<h1>Are voxel uncertainties useful surrogates for MRI?</h1>
+<h1>Voxel_uncertainty</h1>
 
-  <div class="terms-list">
-    <ul>
-        <li><a href="/tags/mri/">[Mri]</a></li>
-        <li><a href="/tags/deep-learning/">[Deep Learning]</a></li>
-        <li><a href="/tags/uncertainty-quantification/">[Uncertainty Quantification]</a></li>
-    </ul>
-  </div>
 
 
 
@@ -89,39 +82,13 @@
 <nav class="toc">
   <strong>Table of contents</strong>
   <div class="toc-content">
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#introduction">Introduction</a>
-      <ul>
-        <li><a href="#what-is-accelerated-mri">What is Accelerated MRI?</a></li>
-      </ul>
-    </li>
-    <li><a href="#voxelwise-and-structural-uncertainty">Voxelwise and structural uncertainty</a></li>
-    <li><a href="#do-they-correlate">Do they correlate?</a></li>
-    <li><a href="#where-to-go-maybe">Where to go (maybe)</a></li>
-  </ul>
-</nav>
+    <nav id="TableOfContents"></nav>
   </div>
 </nav>
 
 
-<h2 id="introduction">Introduction</h2>
-<h3 id="what-is-accelerated-mri">What is Accelerated MRI?</h3>
-<p>MRI scans are invaluable for diagnosing diseases and planning treatments, but they come with a major drawback: they&rsquo;re slow. Patients must lie still for extended periods, which is uncomfortable and can lead to motion artifacts that degrade image quality. To address this, researchers have been developing deep learning methods to reconstruct high-quality images from undersampled data, which promises cutting scan times significantly.</p>
-<p>But here&rsquo;s the catch: when you undersample MRI data, you&rsquo;re asking an AI to fill in the gaps. This introduces uncertainty, and before these methods can be safely deployed in hospitals, we need to know how reliable they really are.</p>
-<h2 id="voxelwise-and-structural-uncertainty">Voxelwise and structural uncertainty</h2>
-<h2 id="do-they-correlate">Do they correlate?</h2>
-<p>The short answer is: <strong>No, they do not correlate.</strong></p>
-<p>Looking at the plot below we can see that for a range of image statistics for the voxelwise variance no correlation exists between the value and the volume variance for each segmented structure.</p>
-<figure><img src="/imgs/MICCAI2025/VN_fast_correlation_analysis.png"
-    alt="Profile" width="600px"><figcaption>
-      <p>Corrlation between the normalised volume variance and the voxelwise variance for the Variational Network</p>
-    </figcaption>
-</figure>
 
-<h2 id="where-to-go-maybe">Where to go (maybe)</h2>
-
-<time datetime="2025-09-01">2025-09-01&nbsp;</time>
+<time datetime="2025-11-19">2025-11-19&nbsp;</time>
 
 
 

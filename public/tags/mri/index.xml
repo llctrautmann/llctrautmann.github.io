@@ -13,7 +13,7 @@
       <link>http://localhost:1313/research/useful_surrogates/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/useful_surrogates/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;h2 id=&#34;voxelwise-and-pixelwise-uncertainty&#34;&gt;Voxelwise and pixelwise uncertainty&lt;/h2&gt;&#xA;&lt;h2 id=&#34;do-they-correlate&#34;&gt;Do they correlate?&lt;/h2&gt;&#xA;&lt;h2 id=&#34;where-to-go-maybe&#34;&gt;Where to go (maybe)&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;h3 id=&#34;what-is-accelerated-mri&#34;&gt;What is Accelerated MRI?&lt;/h3&gt;&#xA;&lt;p&gt;MRI scans are invaluable for diagnosing diseases and planning treatments, but they come with a major drawback: they&amp;rsquo;re slow. Patients must lie still for extended periods, which is uncomfortable and can lead to motion artifacts that degrade image quality. To address this, researchers have been developing deep learning methods to reconstruct high-quality images from undersampled data, which promises cutting scan times significantly.&lt;/p&gt;&#xA;&lt;p&gt;But here&amp;rsquo;s the catch: when you undersample MRI data, you&amp;rsquo;re asking an AI to fill in the gaps. This introduces uncertainty, and before these methods can be safely deployed in hospitals, we need to know how reliable they really are.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
