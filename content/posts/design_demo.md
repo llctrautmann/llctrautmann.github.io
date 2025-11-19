@@ -2,7 +2,7 @@
 title: "Design Elements Demo"
 date: 2025-01-01
 tags: ["demo", "design"]
-draft: false
+draft: true
 ---
 
 This is a demo page showcasing all the different text elements and styles used on this site.
